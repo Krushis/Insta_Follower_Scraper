@@ -1,2 +1,2 @@
-# Insta_Follower_Scraper
-A program to scrape an individuals followers and see who does not follow them back
+# Instagram Follower Scraper
+First program on GitHub, using inspiration from others on this site, designed to find the list of people who have yet to follow you, even though you have them followed :(.
